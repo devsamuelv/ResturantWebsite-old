@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.welcome {
+    height: 55vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 105%;
+    background-position: center;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/sam-s-websites.appspot.com/o/dads%20resturant%2Fresturant.jpg?alt=media&token=e6f82872-bb0d-4ed2-b095-0a045525668b");
+    h4 {
+        padding-top: 15vh;
+        margin-left: 33.5vw;
+        font-size: 55px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+.table-margin {
+    margin-top: 5vh;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    h2 {
+        margin-bottom: 5vh;
+        margin-left: 9.5vw;
+        font-weight: 300;
+        font-size: 30px;
+    }
+}
